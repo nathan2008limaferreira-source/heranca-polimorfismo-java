@@ -1,0 +1,7 @@
+com\mycompany\model\Diretor.class
+com\mycompany\model\Estagiario.class
+com\mycompany\app\ProgramaFuncionario.class
+com\mycompany\model\Funcionario.class
+com\mycompany\model\Programador.class
+com\mycompany\model\Gerente.class
+com\mycompany\service\ControleDeBonificacoes.class
